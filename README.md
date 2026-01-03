@@ -87,5 +87,5 @@ Android developer focused on building clean and maintainable applications.<br><b
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelrahman-khaled-dev&theme=dark&border_radius=5" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=abdelrahman-khaled-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
