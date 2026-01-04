@@ -70,16 +70,9 @@ Android developer focused on building clean and maintainable applications.<br><b
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="terminal logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" height="40" alt="terminal"/>
 </div>
 
-<div align="left" style="margin-top:10px;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="OOP"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Clean Code"/>
-</div>
 
 
 ###
@@ -87,5 +80,5 @@ Android developer focused on building clean and maintainable applications.<br><b
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelrahman-khaled-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-khaled-dev&show_icons=true&theme=dark"/>
 </div>
