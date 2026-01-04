@@ -69,16 +69,8 @@ Android developer focused on building clean and maintainable applications.<br><b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" height="40" alt="terminal"/>
 </div>
 
 
 
-###
 
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-khaled-dev&show_icons=true&theme=dark"/>
-</div>
