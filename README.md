@@ -72,5 +72,12 @@ Android developer focused on building clean and maintainable applications.<br><b
 </div>
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
